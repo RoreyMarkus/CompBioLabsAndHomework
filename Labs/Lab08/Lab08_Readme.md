@@ -22,3 +22,6 @@ In this specific case, the variables represented:
 When this was plugged into growfunc, it was exported into the repository as Generation_Abundances.csv
 growfunc also created a plot of the data.
 
+![Graph](https://github.com/RoreyMarkus/CompBioLabsAndHomework/blob/master/Labs/Lab08/growplot.jpeg?raw=true)
+
+
