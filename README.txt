@@ -1,1 +1,0 @@
-This repository will be a place to put my labs and homework for EBIO4420. There is a labs folder for the labs we do. There is also homework folder for my homework.
