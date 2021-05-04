@@ -19,3 +19,7 @@ growfunc <- function(r, K, timeend, n) {
 }
 # Following the function, write a line(s) of code that calls the function (you choose the parameter values).
 growfunc(.6, 5000, 14, 2500)
+square=3
+triangle=1
+swirl=6
+s=8
